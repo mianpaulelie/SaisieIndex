@@ -20,6 +20,11 @@ namespace SaisieIndex.Views
             button.Clicked += Button_Clicked;
             stackLayout.Children.Add(button);
 
+            button = new Button();
+            button.Text = "Get";
+            button.Clicked += Button_Get_Clicked;
+            stackLayout.Children.Add(button);
+
             Content = stackLayout;
 
         }
@@ -27,6 +32,11 @@ namespace SaisieIndex.Views
         private async void Button_Clicked(object sender, EventArgs e)
         {
             await Navigation.PushAsync(new AjouterIndex());
+        }
+
+        private async void Button_Get_Clicked(object sender, EventArgs e)
+        {
+            await Navigation.PushAsync(new GetAllSaisieIndex());
         }
     }
 }

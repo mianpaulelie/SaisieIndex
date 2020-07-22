@@ -13,6 +13,11 @@ namespace SaisieIndex.Models
         public string Genre { get; set; }
         public string Souscription { get; set; }
 
+        public override string ToString()
+        {
+            return this.Nom + "(" + this.Genre + this.Souscription + ")";
+
+        }
 
     }
 }
