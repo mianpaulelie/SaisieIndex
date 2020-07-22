@@ -1,0 +1,13 @@
+C:\Users\S2mianp\source\repos\SaisieIndex\SaisieIndex\SaisieIndex\bin\Debug\netstandard2.0\SaisieIndex.deps.json
+C:\Users\S2mianp\source\repos\SaisieIndex\SaisieIndex\SaisieIndex\bin\Debug\netstandard2.0\SaisieIndex.dll
+C:\Users\S2mianp\source\repos\SaisieIndex\SaisieIndex\SaisieIndex\obj\Debug\netstandard2.0\SaisieIndex.csprojAssemblyReference.cache
+C:\Users\S2mianp\source\repos\SaisieIndex\SaisieIndex\SaisieIndex\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\S2mianp\source\repos\SaisieIndex\SaisieIndex\SaisieIndex\obj\Debug\netstandard2.0\SaisieIndex.AssemblyInfoInputs.cache
+C:\Users\S2mianp\source\repos\SaisieIndex\SaisieIndex\SaisieIndex\obj\Debug\netstandard2.0\SaisieIndex.AssemblyInfo.cs
+C:\Users\S2mianp\source\repos\SaisieIndex\SaisieIndex\SaisieIndex\bin\Debug\netstandard2.0\ref\SaisieIndex.dll
+C:\Users\S2mianp\source\repos\SaisieIndex\SaisieIndex\SaisieIndex\bin\Debug\netstandard2.0\SaisieIndex.pdb
+C:\Users\S2mianp\source\repos\SaisieIndex\SaisieIndex\SaisieIndex\obj\Debug\netstandard2.0\Views\MainPage.xaml.g.cs
+C:\Users\S2mianp\source\repos\SaisieIndex\SaisieIndex\SaisieIndex\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\S2mianp\source\repos\SaisieIndex\SaisieIndex\SaisieIndex\obj\Debug\netstandard2.0\SaisieIndex.dll
+C:\Users\S2mianp\source\repos\SaisieIndex\SaisieIndex\SaisieIndex\obj\Debug\netstandard2.0\ref\SaisieIndex.dll
+C:\Users\S2mianp\source\repos\SaisieIndex\SaisieIndex\SaisieIndex\obj\Debug\netstandard2.0\SaisieIndex.pdb
