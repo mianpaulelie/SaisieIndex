@@ -30,6 +30,11 @@ namespace SaisieIndex.Views
             button.Clicked += Button_Edit_Clicked;
             stackLayout.Children.Add(button);
 
+            button = new Button();
+            button.Text = "Delete";
+            button.Clicked += Button_Delete_Clicked;
+            stackLayout.Children.Add(button);
+
             Content = stackLayout;
 
         }
@@ -47,6 +52,11 @@ namespace SaisieIndex.Views
         private async void Button_Edit_Clicked(object sender, EventArgs e)
         {
             await Navigation.PushAsync(new EditNouvelIndex());
+        }
+
+        private async void Button_Delete_Clicked(object sender, EventArgs e)
+        {
+            await Navigation.PushAsync(new DeleteNouvelIndex());
         }
 
     }
